@@ -1,0 +1,49 @@
+body{
+ background-color: #ffff;   
+}
+
+h1{
+   color: #000000;
+   font-size: 20px; 
+   font-weight: bold;
+}
+
+.area-cabecalho{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.area-menu{
+    display: block;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.texto-menu{
+    color: #000000;
+    font-size: 20px;
+    display: block;
+}
+
+.texto-menu-red{
+    color: #ff0000;
+    font-size: 20px;
+    display: block;
+}
+
+.area-central{
+    margin-left: 150px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    width: 530px;
+}
+
+.box-data{
+    width: 300px;
+}
+
